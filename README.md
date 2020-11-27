@@ -1,4 +1,4 @@
-# Java
+# ZigZag conversion (Ascii)
 This is a kind of Ascci converter - dedicated to drawing / cutting machines.
 This short code convert a image (called moon.jpg in the code) into lines.
 Brightness of the image is converted to zigzag on the lines, amplitude of the zigzag depends of the brightness of the pixel.
